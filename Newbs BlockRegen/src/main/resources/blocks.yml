@@ -1,0 +1,14 @@
+# Data file for all regen blocks in the plugin.
+#
+# DO NOT TOUCH "blocks"
+
+fill: BEDROCK
+particles:
+  type: EXPLOSION_LARGE
+  count: 100
+sounds:
+  type: ENTITY_GENERIC_EXPLODE
+  category: AMBIENT
+  volume: 1
+  pitch: 1
+blocks:

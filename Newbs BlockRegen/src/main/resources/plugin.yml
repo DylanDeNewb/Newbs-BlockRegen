@@ -1,0 +1,5 @@
+name: NewbsBlockRegen
+version: ${project.version}
+main: club.newbs.blockregen.NewbsBlockRegen
+api-version: 1.13
+authors: [ DylanDeNewb ]

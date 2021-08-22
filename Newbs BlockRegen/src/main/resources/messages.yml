@@ -1,0 +1,20 @@
+# Configuration file for most plugin messages
+
+messages:
+  PREFIX: '&b&lN&3&lC &7'
+  INSUFFICIENT_PERMS: '&7Insufficient permissions to access this command.'
+  INSUFFICIENT_ENTITY: '&7Insufficient entity, player required.'
+  INSUFFICIENT_PLAYER: '&7Insufficient player, please check the name.'
+  INSUFFICIENT_NUMBER: "&Insufficient number, please use a valid number."
+  UPDATE: '&7You are currently running version &6% &7which is &c&lOUTDATED' # % is Current Plugin Version
+  SOFT_DEPEND_FOUND: '&7Soft-Dependency &6&l% &7found.' # % is Plugin Soft-Dependency
+  SOFT_DEPEND_NOT_FOUND: '&7Soft-Dependency &6&l% &7not found, skipping.' # % is Plugin Soft-Dependency
+  RELOAD: '&7Plugin has been &6&lRELOADED'
+  BLOCK_PLACEMENT: "&7You can &c&lNOT &7build here!"
+  BLOCK_BREAK: "&7You are interacting with a &6&lHARVESTED &7block!"
+  BLOCK_CREATE: "&7Block &a&lCREATED&7, with &6&l%" # % is Material Type
+  BLOCK_REMOVE: "&7Block &c&lREMOVED&7, with &6&l%" # % is Material Type
+  BLOCK_DUPLICATE: "&7You tried &c&lDUPLICATING &7a &6&lHARVESTABLE &7block!"
+  BLOCK_INVALID: "&7You tried interacting with a &6&lNORMAL &7block!"
+  EDIT_TIME: "&7Set regen-time to &b&l%&7, for &6&l^" # % is Time, ^ is Material Type
+
